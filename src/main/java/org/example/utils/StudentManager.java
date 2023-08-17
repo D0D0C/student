@@ -19,5 +19,8 @@ public class StudentManager {
 
             }
 
-    }
+            public static void afficherStudent() {};
+            public static void afficherStudentClasse() {};
+            public static void supprimerStudent() {};
 
+}
